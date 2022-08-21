@@ -109,7 +109,7 @@ allPriorityColors.forEach(function (colorElem) {
 modalCont.addEventListener("keydown", function (e) {
   let key = e.key;
 
-  if (key == "Enter") {
+  if (key == "Shift") {
     createTicket(modalPriorityColor, taskAreaCont.value); // this function will generate the ticket
     modalCont.style.display = "none";
     addFlag = false;
