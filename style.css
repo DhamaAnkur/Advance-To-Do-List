@@ -127,8 +127,8 @@
   }
   
   .ticket-cont {
-    height: 12rem;
-    width: 15rem;
+    height: 15rem;
+    width: 18rem;
     background-color: #f1f2f6;
   }
   
@@ -155,7 +155,7 @@
     height: 2rem;
     display: flex;
     justify-content: flex-end;
-    margin-top: 75px;
+    margin-top: 125px;
     font-size: 1.5rem;
     margin-right: 5px;
   }
